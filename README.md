@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Summary
+Rahul K A
+Laravel / PHP Developer
+
+###Summary
 
 Highly skilled and experienced Laravel developer with a strong background in developing and maintaining web 
 applications. Proficient in PHP, MySQL, HTML, CSS, and JavaScript, with a deep understanding of the Laravel 
