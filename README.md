@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Summary
+
+Highly skilled and experienced Laravel developer with a strong background in developing and maintaining web 
+applications. Proficient in PHP, MySQL, HTML, CSS, and JavaScript, with a deep understanding of the Laravel 
+framework. Demonstrated ability to design and implement efficient and scalable solutions, while adhering to best 
+coding practices and industry standards.
